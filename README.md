@@ -25,7 +25,7 @@ This Jupyter Notebook (**Clustering.ipynb**) explores the effectiveness of vario
 - Homogeneity & Completeness Score
 
 ## 📂 Dataset
-- The dataset used for clustering is **Jewellery**.
+- The dataset used for clustering is **Winequality**.
 - Features have been preprocessed using different techniques before clustering.
 
 
